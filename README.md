@@ -1,8 +1,8 @@
 # Diabetes-Prediction-Model-using-SVM
-# Overview
+## Overview
 This project aims to predict the likelihood of an individual being diabetic based on key health factors using a Support Vector Machine (SVM) model. The model leverages features such as age, BMI, glucose levels, and other relevant indicators to make accurate predictions, aiding in early detection and management of diabetes.
 
-# Features
+## Features
 SVM Model: Utilizes Support Vector Machine for classification.
 Key Health Indicators: Age, BMI, glucose levels, etc.
 Early Detection: Aims to identify potential diabetes cases early for better management.
