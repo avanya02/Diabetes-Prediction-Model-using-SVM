@@ -11,7 +11,7 @@ Dataset
 The model is trained on a small to medium-sized dataset, which includes data points related to health metrics that are influential in diagnosing diabetes.
 
 Installation
-1. Clone the repository: git clone https://github.com/yourusername/diabetes-prediction.git
+1. Clone the repository: git clone https://github.com/avanya02/diabetes-prediction.git
 cd diabetes-prediction
 2. Install required libraries: pip install -r requirements.txt
 3. Run the jupyter notebook: jupyter notebook Diabetes_Prediction.ipynb
